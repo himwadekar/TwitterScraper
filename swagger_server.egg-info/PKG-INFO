@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: swagger-server
+Version: 1.0.0
+Summary: Twitter Scraper
+Home-page: UNKNOWN
+Author-email: 
+License: UNKNOWN
+Keywords: Swagger,Twitter Scraper
+Platform: UNKNOWN
+
+    This is a server to get Tweets.
+    
+

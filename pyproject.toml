@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "TwitterScraper"
+version = "0.1.0"
+description = ""
+authors = ["Himanshu Wadekar <himanshu.wadekar@rakuten.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+tweepy = "^3.10.0"
+connexion = "^2.9.0"
+six = "^1.16.0"
+python_dateutil = "^2.6.0"
+tox = "^3.24.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
